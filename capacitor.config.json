@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Gmail Clone",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
